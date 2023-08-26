@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jesús Antonio Tepec</h1>
-<h3 align="center">Android Developer :an & Web developer</h3>
+<h3 align="center">Android Developer & Web developer</h3>
 
 <br>
 
